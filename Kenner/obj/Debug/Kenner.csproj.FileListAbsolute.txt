@@ -1,0 +1,57 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\Kenner.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\Kenner.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\Kenner.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\ZstdNet.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.cadastrar.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.load.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.Form2.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.login.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Fatec\2° Semetre\Ling prog\Kenner\Kenner\obj\Debug\Kenner.Form3.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\Kenner.exe.config
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\Kenner.exe
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\Kenner.pdb
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\MySql.Data.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\Google.Protobuf.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\ZstdNet.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\System.Memory.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\System.Buffers.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\bin\Debug\MySql.Data.xml
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.exe.config
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.cadastrar.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.Form2.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.Form3.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.load.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.login.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.Properties.Resources.resources
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.csproj.GenerateResource.cache
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.exe
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.pdb
+C:\Users\kenne\OneDrive\Área de Trabalho\Kenner\Kenner\obj\Debug\Kenner.csproj.SuggestedBindingRedirects.cache
