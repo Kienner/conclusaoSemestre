@@ -1,4 +1,4 @@
-# sistemaVagas
+# sistema de vagas - #estudo
 ## Aplicação desenvolvida em C# windowsForms 
 
 sistema para 'vagas de emprego' na área de TI.
