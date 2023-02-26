@@ -1,5 +1,5 @@
 # sistemaVagas
-# Aplicação desenvolvida em C# windowsForms 
+## Aplicação desenvolvida em C# windowsForms 
 
 sistema para 'vagas de emprego' na área de TI.
 No sistema se o usuario realizar um cadastro como 'programador', aparecerá perfis de empresas contratando.
